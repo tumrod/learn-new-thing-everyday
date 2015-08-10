@@ -1,0 +1,63 @@
+body {
+    background-image: url('http://www.publicdomainpictures.net/pictures/60000/velka/autumn-landscape-1379696322ccb.jpg');
+    width: 100%;
+    overflow: hidden;
+}
+div {
+    background-color: #008800;
+}
+
+.layer-1 {
+    background-color: rgba(42, 43, 47, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.layer-2 {
+    background-color: rgba(42, 43, 47, 0.7);
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    width: 60%;
+    height: 80%;
+}
+
+.layer-2 #big-cloud {
+  color: rgba(115, 115, 115, 0.7);
+  text-shadow: 1px 1px 1px #848080;
+  font-size: 8.5em;
+  position: relative;
+  left: 80%;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    font-size: -webkit-xxx-large;
+    color: rgba(115, 115, 115, 0.7);
+    letter-spacing: 44px;
+}
+
+/* Credit: http://codepen.io/alemesre/pen/hAxGg;*/
+.drop {
+    background:-webkit-gradient(linear,0% 0%,0% 100%, from(rgba(13,52,58,1) ), to(rgba(255,255,255,0.6))  );
+    background: -moz-linear-gradient(top, rgba(13,52,58,1) 0%, rgba(255,255,255,.6) 100%);
+    width:1px;
+    height:89px;
+    position: absolute;
+    bottom:200px;
+    -webkit-animation: fall .63s linear infinite;
+    -moz-animation: fall .63s linear infinite;
+  
+}
+
+/* animate the drops*/
+@-webkit-keyframes fall {
+    to {margin-top:900px;}
+}
+@-moz-keyframes fall {
+    to {margin-top:900px;}
+}
