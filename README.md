@@ -5,6 +5,7 @@ This repo mostly will be my coding experiments for the purpose of learning certa
 * Basic Python data structure
 * I wrote some practice test materials for Software Engineering class.
 * Most files are in iPython Notebook, and I gotta say that I really enjoy writing Python in iPython Notebook.
+* You can do javascript, HTML, CSS in iPython Notebook as well!
 
 ## [web-dev][web-dev-dir]
 * As of 08/10/2015, it consists of mostly Bootstrap templates since I eventually would like to create some webpage template.
