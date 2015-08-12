@@ -14,6 +14,11 @@ This repo mostly will be my coding experiments for the purpose of learning certa
 ## [random][random-dir]
 * Random things, probably will be mini-project that eventually will be on codepen.io
 
+### [fantasy-series][fantasy-dir]
+* Well, I was thinking of doing some CSS and javascript animation.
+* Here is my first codepen ever! It is a train-window side view. I mostly coded with jQuery and CSS. I learned a great deal in adding CSS and HTML tag using jQuery. It was incredibly fun!
+* This is the [train-window][train-window-link] link to codepen so that you could see the actual animation :)
+
 ### jQuery-project
 #### [rainy-weather][jQuery-dir]
 ![rainy-weather](https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/jQuery-project/08102015.png)
@@ -29,4 +34,6 @@ This repo mostly will be my coding experiments for the purpose of learning certa
 [web-dev-dir]: https://github.com/tumrod/learn-new-thing-everyday/tree/master/web-dev
 [random-dir]: https://github.com/tumrod/learn-new-thing-everyday/tree/master/random
 [jQuery-dir]: https://github.com/tumrod/learn-new-thing-everyday/tree/master/random/jQuery-project
+[fantasy-dir]: https://github.com/tumrod/learn-new-thing-everyday/tree/master/random/fantasy-series
 [codepen-link]: http://codepen.io/alemesre/pen/hAxGg
+[train-window-link]: http://codepen.io/tumrod/pen/aOxBYB
