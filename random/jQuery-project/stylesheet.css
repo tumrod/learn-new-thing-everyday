@@ -3,9 +3,6 @@ body {
     width: 100%;
     overflow: hidden;
 }
-div {
-    background-color: #008800;
-}
 
 .layer-1 {
     background-color: rgba(42, 43, 47, 0.7);
@@ -40,6 +37,45 @@ h1 {
     color: rgba(115, 115, 115, 0.7);
     letter-spacing: 44px;
 }
+
+#weather {
+
+}
+
+.weatherCity {
+    font-family: 'Roboto', sans-serif;
+    font-size: -webkit-xxx-large;
+    /*color: rgba(115, 115, 115, 0.7);*/
+    color: white;
+}
+
+.weatherTemp {
+    font-family: 'Roboto', sans-serif;
+    font-size: -webkit-xxx-large;
+    /*color: rgba(115, 115, 115, 0.7);*/
+    color: white;
+}
+
+.weatherDesc {
+    font-family: 'Roboto', sans-serif;
+    font-size: -webkit-xxx-large;
+    /*color: rgba(115, 115, 115, 0.7);*/
+    color: white;
+}
+.weatherRange {
+    font-family: 'Roboto', sans-serif;
+    font-size: -webkit-xxx-large;
+    /*color: rgba(115, 115, 115, 0.7);*/
+    color: white;
+}
+
+.weatherWind {
+    font-family: 'Roboto', sans-serif;
+    font-size: -webkit-xxx-large;
+    /*color: rgba(115, 115, 115, 0.7);*/
+    color: white;
+}
+
 
 /* Credit: http://codepen.io/alemesre/pen/hAxGg;*/
 .drop {

@@ -13,16 +13,38 @@
         <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
         <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+        
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+
+        <script src="jquery.mb.YTPlayer.js"></script>
         <script type='text/javascript' src='script.js'></script>
+        <script src="jquery.zweatherfeed.js" type="text/javascript"></script>
+        <!--<link href="YTPlayer.css" media="all" rel="stylesheet" type="text/css">-->
+<script>
+    jQuery(function(){
+      jQuery(".player").mb_YTPlayer();
+    });
+</script>
     </head>
     <body>
-        <div class='layer-1'>
+
+        <div class='layer-2'>
+            <!--xuPrL7IWukE-->
+        <a class="player" data-property="{videoURL:'ht2TigJp88w',containment:'body',autoPlay:true, mute:true, startAt:0,opacity:1}">My video</a> 
+        
+        <section class="rain">                 
+            <i class="fa fa-cloud" id="big-cloud"></i>
+            <h1> Weather </h1>
+            <div id="weather"></div>
+        </section>
+    </div>
+        <!--<div class='layer-1'>
             <div class='layer-2'>
-                <section class="rain">                 
-                    <i class="fa fa-cloud" id="big-cloud"></i>
-                    <h1> Weather </h1>
-                </section>
+                
+
             </div>
-        </div>   
+        </div>  
+        --> 
     </body>
 </html>

@@ -1,6 +1,10 @@
 /* Credit: http://codepen.io/alemesre/pen/hAxGg*/
 
 $(document).ready(function() {
+
+    $('#weather').weatherfeed(['USTX0057']);
+
+    // if rainy, then create the rain drop
     // number of drops created.
     var nbDrop = 100; 
 
@@ -24,11 +28,10 @@ $(document).ready(function() {
                 nbDrop = 100;
             }
 
-
         }
 
     }
     // Make it rain
-    createRain();
+    // createRain();
 
 });
