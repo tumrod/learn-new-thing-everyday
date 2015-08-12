@@ -16,6 +16,12 @@ This repo mostly will be my coding experiments for the purpose of learning certa
 
 ### [fantasy-series][fantasy-dir]
 * Well, I was thinking of doing some CSS and javascript animation.
+
+#### train-window
+![train-window-first](https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-1.png)
+![train-window-second](https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-2.png)
+![train-window-multiple](https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-multiple.png)
+
 * Here is my first codepen ever! It is a train-window side view. I mostly coded with jQuery and CSS. I learned a great deal in adding CSS and HTML tag using jQuery. It was incredibly fun!
 * This is the [train-window][train-window-link] link to codepen so that you could see the actual animation :)
 
