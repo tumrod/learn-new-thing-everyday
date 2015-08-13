@@ -19,15 +19,13 @@ This repo mostly will be my coding experiments for the purpose of learning certa
 
 #### page-flip-with-jQuery
 <img src="https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/page-flip.png" alt="page-flip" width="50%" height="50%">
-![page-flip](https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/page-flip.png)
 * It's basically an original train-window before it becomes train-window. I was attempting to do a book/page fliper with javascript and jQuery.
 * [page-flip's codepen][page-flip-link]
 
 #### train-window
 <img src="https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-1.png" alt="train-window-first" width="50%" height="50%">
-![train-window-first](https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-1.png)
-![train-window-second](https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-2.png)
-![train-window-multiple](https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-multiple.png)
+<img src="https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-2.png" alt="train-window-second" width="50%" height="50%">
+<img src="https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-multiple.png" alt="train-window-multiple" width="50%" height="50%">
 
 * Here is my first codepen ever! It is a train-window side view. I mostly coded with jQuery and CSS. I learned a great deal in adding CSS and HTML tag using jQuery. It was incredibly fun!
 * This is the [train-window][train-window-link] link to codepen so that you could see the actual animation :)
