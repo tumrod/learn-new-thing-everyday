@@ -1,6 +1,6 @@
 $(document).ready(function() {
-    var pageCount = 5;
-    var perspectivePX = 100;
+    var pageCount = 300;
+    var perspectivePX = 1000;
     var yDegree = -40;
     var pageOpacity = 1.0;
 
