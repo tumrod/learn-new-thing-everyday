@@ -16,6 +16,9 @@ This repo mostly will be my coding experiments for the purpose of learning certa
 
 ### [fantasy-series][fantasy-dir]
 * Well, I was thinking of doing some CSS and javascript animation.
+#### page-flip
+* It's basically an original train-window before it becomes train-window. I was attempting to do a book/page fliper with javascript and jQuery.
+* [page-flip's codepen][page-flip-link]
 
 #### train-window
 ![train-window-first](https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-1.png)
@@ -43,3 +46,4 @@ This repo mostly will be my coding experiments for the purpose of learning certa
 [fantasy-dir]: https://github.com/tumrod/learn-new-thing-everyday/tree/master/random/fantasy-series
 [codepen-link]: http://codepen.io/alemesre/pen/hAxGg
 [train-window-link]: http://codepen.io/tumrod/pen/aOxBYB
+[page-flip-link]: http://codepen.io/tumrod/pen/EjJZrp
