@@ -16,7 +16,8 @@ This repo mostly will be my coding experiments for the purpose of learning certa
 
 ### [fantasy-series][fantasy-dir]
 * Well, I was thinking of doing some CSS and javascript animation.
-#### page-flip
+
+#### page-flip-with-jQuery
 * It's basically an original train-window before it becomes train-window. I was attempting to do a book/page fliper with javascript and jQuery.
 * [page-flip's codepen][page-flip-link]
 
