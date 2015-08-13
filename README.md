@@ -18,13 +18,13 @@ This repo mostly will be my coding experiments for the purpose of learning certa
 * Well, I was thinking of doing some CSS and javascript animation.
 
 #### page-flip-with-jQuery
-<img src="https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/page-flip.png" alt="page-flip" width="300" height="450">
+<img src="https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/page-flip.png" alt="page-flip" width="50%" height="50%">
 ![page-flip](https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/page-flip.png)
 * It's basically an original train-window before it becomes train-window. I was attempting to do a book/page fliper with javascript and jQuery.
 * [page-flip's codepen][page-flip-link]
 
 #### train-window
-
+<img src="https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-1.png" alt="train-window-first" width="50%" height="50%">
 ![train-window-first](https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-1.png)
 ![train-window-second](https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-2.png)
 ![train-window-multiple](https://github.com/tumrod/learn-new-thing-everyday/blob/master/random/fantasy-series/train-window-multiple.png)
