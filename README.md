@@ -1,4 +1,4 @@
-# learn-new-thing-everyday
+# learning-env
 This repo mostly will be my coding experiments for the purpose of learning certain topics/aspects of programming. I hope what I learned here can be beneficial to others as well.
 
 ## [python][python-dir]
