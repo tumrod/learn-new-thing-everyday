@@ -1,9 +1,9 @@
 # learn-new-thing-everyday
-This repo mostly will be my coding experiments for the purpose of learning certain topics/aspects of the languages. I hope what I learned here will benefit other people's learning as well. My goal is to learn something new everyday.
+This repo mostly will be my coding experiments for the purpose of learning certain topics/aspects of programming. I hope what I learned here can be beneficial to others as well.
 
 ## [python][python-dir]
 * Basic Python data structure
-* I wrote some practice test materials for Software Engineering class.
+* Some practice test materials for Software Engineering class. It is definitely worthwhile learning experience to write your own practice questions because you have to be able to explain step by step in words so other students can understand your solutions.
 * Most files are in iPython Notebook, and I gotta say that I really enjoy writing Python in iPython Notebook.
 * You can do javascript, HTML, CSS in iPython Notebook as well!
 
